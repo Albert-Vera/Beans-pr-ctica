@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="llibreria01:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/llibreria01_jar</output-path>
+    <root id="archive" name="BeansPractica.jar">
+      <element id="module-output" name="BeansPractica" />
+    </root>
+  </artifact>
+</component>
